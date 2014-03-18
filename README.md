@@ -1,0 +1,4 @@
+asset
+=====
+
+for general  assets
